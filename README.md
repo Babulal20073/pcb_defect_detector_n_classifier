@@ -5,7 +5,7 @@ This project presents an end-to-end **PCB defect detection system** built using 
 The solution integrates **data preprocessing, model training, backend inference, and frontend visualization** into a single pipeline suitable for industrial inspection workflows.
 
 ---
-##Dataset Link -- https://drive.google.com/drive/folders/1RmZiNBRyrEMUg8BXF-cT_hNlT5dq8SFb?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+## Dataset Link -- https://drive.google.com/drive/folders/1RmZiNBRyrEMUg8BXF-cT_hNlT5dq8SFb?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
 ## Defect Types Covered
 
 The system is trained to detect the following six PCB defect classes:
